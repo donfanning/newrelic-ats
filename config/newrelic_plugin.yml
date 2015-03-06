@@ -1,0 +1,13 @@
+# Please make sure to update the license_key information with the license key for your New Relic
+# account.
+#
+#
+newrelic:
+  license_key: ''
+#  endpoint: 'https://platform-api.newrelic.com/platform/v1/metrics'
+  verbose: 0
+  proxy:
+agents:
+  # this is where configuration for agents belongs
+  atsv2:
+    proxy:

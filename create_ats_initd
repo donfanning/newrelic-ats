@@ -1,0 +1,1 @@
+foreman export initscript /etc/init.d -a ats -u root -l /var/log/atsstats.log
